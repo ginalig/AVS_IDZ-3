@@ -1,0 +1,16 @@
+	./34_1_2.out test_input/input1.txt 34_1_2_test_output/output1.txt
+	./34.out test_input/input1.txt 34_test_output/output1.txt
+	./34_Optimized.out test_input/input1.txt 34_Optimized_test_output/output1.txt
+	./34_1_2.out test_input/input2.txt 34_1_2_test_output/output2.txt
+	./34.out test_input/input2.txt 34_test_output/output2.txt
+	./34_Optimized.out test_input/input2.txt 34_Optimized_test_output/output2.txt
+	./34_1_2.out test_input/input3.txt 34_1_2_test_output/output3.txt
+	./34.out test_input/input3.txt 34_test_output/output3.txt
+	./34_Optimized.out test_input/input3.txt 34_Optimized_test_output/output3.txt
+	./34_1_2.out test_input/input4.txt 34_1_2_test_output/output4.txt
+	./34.out test_input/input4.txt 34_test_output/output4.txt
+	./34_Optimized.out test_input/input4.txt 34_Optimized_test_output/output4.txt
+	./34_1_2.out test_input/input5.txt 34_1_2_test_output/output5.txt
+	./34.out test_input/input5.txt 34_test_output/output5.txt
+	./34_Optimized.out test_input/input5.txt 34_Optimized_test_output/output5.txt
+	
